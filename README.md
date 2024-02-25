@@ -1,4 +1,4 @@
-# Welcome to My GitHub Portfolio!
+# Welcome to My Portfolio!
 
 Hey there! 👋 I'm Sajib Rafi Hossain, an aspiring software engineer with a passion for crafting exceptional web experiences. Currently pursuing a major in computer science, I'm dedicated to pushing the boundaries of what's possible in the digital realm.
 
